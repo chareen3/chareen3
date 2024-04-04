@@ -29,7 +29,7 @@
   <a href="https://discordapp.com/users/chareen3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
-  <a href="email:chareenmacno@gmail.com" target="_blank">
+  <a href="mailto:chareenmacno@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
   </a>
 </div>

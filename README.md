@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since ...: Day one!<br><br>📚 Currently learning: Microservices and advanced algorithms.<br><br>🎯 Goals: Master machine learning and contribute to open-source.<br><br>🎲 Fun fact: I once debugged a tough issue during a walk in the park!<be><br>📫 How to reach me: mailto:chareenmacno@gmail.com</p>
+<p align="left">✨ Creating bugs since ...: Day one!<br><br>📚 Currently learning: Microservices and advanced algorithms.<br><br>🎯 Goals: Master machine learning and contribute to open-source.<br><br>🎲 Fun fact: I once debugged a tough issue during a walk in the park!<be><br>📫 How to reach me: <a href="mailto:chareenmacno@gmail.com" target="_blank"></p>
 
 ###
 

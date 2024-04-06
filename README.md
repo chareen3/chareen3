@@ -1,4 +1,6 @@
-<h1 align="left">Code, debug, conquer! 🚀</h1>
+<h1 align="left">Code, debug, conquer! 🚀</h1> <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chareen3&label=Profile%20views&color=0e75b6&style=flat" alt="chareen3" /> </p>
+</div>
 
 ###
 
@@ -94,8 +96,6 @@
 
 ###
 
-<div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chareen3&label=Profile%20views&color=0e75b6&style=flat" alt="chareen3" /> </p>
-</div>
+
 
 ###

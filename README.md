@@ -1,8 +1,5 @@
 <h1 align="center">Code, Debug, Conquer! 🚀</h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/zcIbPCMTNqUAAAAd/ciprian-costas-devyncip.gif" height="200" alt="Developer animation" />
-</p>
 
 <h2 align="center">Hi, I'm Charith Weerasinghe 👋</h2>
 

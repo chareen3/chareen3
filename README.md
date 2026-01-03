@@ -14,7 +14,7 @@
 
 - ✨ Creating bugs since: **Day One**
 - 📚 Currently learning: **Microservices & Advanced Algorithms**
-- 🎯 2025 Goals: **Master Machine Learning, Contribute to Open Source**
+- 🎯 2026 Goals: **Master Machine Learning, Contribute to Open Source**
 - 🎲 Fun Fact: *Once debugged a tricky issue during a walk in the park!*
 
 ---
